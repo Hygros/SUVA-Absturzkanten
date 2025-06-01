@@ -1,0 +1,9 @@
+.conda/
+__pycache__/
+build/
+dist/
+js/
+old versions/
+pythonocc-demos/
+pythonocc-documentation-master/
+suva-logo/
